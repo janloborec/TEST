@@ -1,0 +1,39 @@
+body {
+  font-family: 'Nova Mono', monospace;
+  background-image: url("https://www.izkiz.net/wp-content/uploads/2017/01/DSC_7356.jpg");
+}
+
+#belatabla {
+  background-color: white;
+}
+
+#naslov {
+  text-align: center;
+  color: black;
+}
+
+#podnaslov {
+  text-align: center;
+  color: black;
+}
+
+#povezave {
+  text-align: center;
+  color: white;
+}
+
+a {font-weight: 900;
+  color:green ;
+}
+
+#haha {
+  text-align: center;
+}
+
+#levičar {background-color: #f5f5f5;
+  padding: 20px;
+}
+
+#desničar { background-color: #e8e8e8;
+  padding: 20px;
+}
